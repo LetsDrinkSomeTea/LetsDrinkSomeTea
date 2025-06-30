@@ -101,18 +101,8 @@
 
 ## 🏆 Achievements & Certifications
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">🎓</td>
-      <td><strong>B.Sc. IT Security</strong> (Expected 2025)</td>
-    </tr>
-    <tr>
-      <td align="center">🐳</td>
-      <td><strong>Working Student</strong> - at [ditis](https://ditis.de/)</td>
-    </tr>
-  </table>
-</div>
+- 🎓 **B.Sc. IT Security** Expected 2025
+- 🏢 **Working Student** at [ditis](https://ditis.de/)
 
 ---
 
