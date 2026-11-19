@@ -1,28 +1,30 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+LetsDrinkSomeTea+%F0%9F%8D%B5;Software+Developer;DevSecOps;Python+%7C+C%2B%2B+%7C+Rust+%7C+C++" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <sub>🍵 Powered by curiosity, secured by code, and fueled by tea ☕</sub>
-</div>
-
-<div align="center">
-  <img src="https://github.com/LetsDrinkSomeTea/LetsDrinkSomeTea/blob/main/assets/banner.gif" width="100%" alt="Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+LetsDrinkSomeTea+%F0%9F%8D%B5;Product+Security+Consultant;DevSecOps;Python+%7C+C%2B%2B+%7C+Rust+%7C+TypeScript" alt="Typing SVG" />
+  <br/>
+  <sub>🍵 Powered by curiosity, secured by code, and fueled by tea</sub>
 </div>
 
 ---
 
-## 🛡️ Tech Arsenal
+## 👋 About
+
+🛡️ **Consultant Digital Product Security** at [ditis](https://ditis.de/)<br/>
+🎓 **B.Sc. IT Security**<br/>
+📜 **CESA** – Certified Expert for Security in Automation
+
+Focused on product security, vulnerability research and security automation.
+
+---
+
+## 🛡️ Tech Stack
 
 <div align="center">
 
-### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### DevOps & Tools
+<br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -33,99 +35,19 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🔍 IVExES</h3>
-        <div align="center">
-          <a href="https://github.com/LetsDrinkSomeTea/ivexes" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=LetsDrinkSomeTea&repo=ivexes&theme=tokyonight" alt="IVExES"/>
-          </a>
-          <p><strong>Intelligent Vulnerability Extraction & Exploit Synthesis</strong></p>
-          <p>🐍 Python | 🔐 Security Research | 🎯 Exploit Development</p>
-          <p>Advanced tool for automated vulnerability discovery and exploit generation</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🔧 bytestashy</h3>
-        <div align="center">
-          <a href="https://github.com/LetsDrinkSomeTea/bytestashy" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=LetsDrinkSomeTea&repo=bytestashy&theme=tokyonight" alt="ByteStashy"/>
-          </a>
-          <p><strong>Simple CLI for ByteStash</strong></p>
-          <p>🦀 Rust | 🖥️ CLI Tool | 📚 Documentation</p>
-          <p>Efficient command-line interface with comprehensive documentation</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🌐 BiFi</h3>
-        <div align="center">
-          <a href="https://github.com/LetsDrinkSomeTea/BiFi" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=LetsDrinkSomeTea&repo=BiFi&theme=tokyonight" alt="BiFi"/>
-          </a>
-          <p><strong>Web Application Project</strong></p>
-          <p>📘 TypeScript | 🌐 Web Development | ⚡ Modern Stack</p>
-          <p>Full-stack application showcasing modern web development practices</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">📄 Interactive Map</h3>
-        <div align="center">
-          <a href="https://github.com/LetsDrinkSomeTea/bs-map" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=LetsDrinkSomeTea&repo=bs-map&theme=tokyonight" alt="BS-Map"/>
-          </a>
-          <p><strong>Application Materials</strong></p>
-          <p>📄 Plain | 💼 Professional | 🌐 Web Development</p>
-          <p>Interactive filtering of POI</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🔍 [**IVExES**](https://github.com/LetsDrinkSomeTea/ivexes) | Intelligent Vulnerability Extraction & Exploit Synthesis | 🐍 Python |
+| 🔧 [**bytestashy**](https://github.com/LetsDrinkSomeTea/bytestashy) | Simple CLI for ByteStash | 🦀 Rust |
+| 🌐 [**BiFi**](https://github.com/LetsDrinkSomeTea/BiFi) | Full-stack web application | 📘 TypeScript |
+| 🗺️ [**BS-Map**](https://github.com/LetsDrinkSomeTea/bs-map) | Interactive map with POI filtering | 🌐 Web |
 
 ---
 
-## 📊 GitHub Analytics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetsDrinkSomeTea&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LetsDrinkSomeTea&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🎓 **B.Sc. IT Security** Expected 2025
-- 🏢 **Working Student** at [ditis](https://ditis.de/)
-
----
-
-## 🌟 Skills Matrix
-
-<div align="center">
-
-| Category | Technologies | Proficiency |
-|----------|-------------|------------|
-| **Python** | Security Tools, Automation | ██████████ 95% |
-| **C++** | Systems Programming, Performance Optimization | ████████░░ 85% |
-| **DevOps** | Docker, CI/CD | ████████░░ 80% |
-| **Web** | TypeScript, Modern Frameworks | ███████░░░ 75% |
-| **Rust** | CLI Tools, Systems Programming | ██████░░░░ 70% |
-
-</div>
-
----
-
-## 🎨 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LetsDrinkSomeTea&theme=tokyonight&hide_border=true" alt="Coding Streak"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetsDrinkSomeTea&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 ---
@@ -133,15 +55,9 @@
 ## 🤝 Let's Connect
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-faigle-050b1431a)
 
-</div>
+<sub>💡 "In the world of cybersecurity, the best defense is a good understanding of offense."</sub>
 
----
-
-<div align="center">
-  <h3>💡 "In the world of cybersecurity, the best defense is a good understanding of offense."</h3>
-  
-  <img src="https://raw.githubusercontent.com/LetsDrinkSomeTea/LetsDrinkSomeTea/main/assets/footer.gif" width="100%" alt="Footer"/>
 </div>
